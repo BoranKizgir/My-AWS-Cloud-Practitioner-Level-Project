@@ -14,5 +14,10 @@ Bu proje, AWS bulut altyapısını kullanarak bir web sitesinin nasıl barındı
 3. "Static Website Hosting" özelliği aktif edilerek bir uç nokta (endpoint) oluşturuldu.
 4. Bucket Policy eklenerek nesnelere (objects) okuma izni verildi.
 
+Not: Bu proje AWS Free Tier sınırları içerisinde test amaçlı oluşturulmuştur. 
+Maliyet optimizasyonu nedeniyle kaynaklar AWS üzerinden kaldırılmıştır; ancak mimari yapı ve kodlar burada sergilenmektedir."
+
 ##  Ekran Görüntüsü
 ![Web Sitemin S3 Üzerindeki Hali](WebSite_Screenshot.png)
+
+
