@@ -15,4 +15,4 @@ Bu proje, AWS bulut altyapısını kullanarak bir web sitesinin nasıl barındı
 4. Bucket Policy eklenerek nesnelere (objects) okuma izni verildi.
 
 ##  Ekran Görüntüsü
-![Web Sitemin S3 Üzerindeki Hali](WebSite Screenshot.png)
+![Web Sitemin S3 Üzerindeki Hali](WebSite_Screenshot.png)
